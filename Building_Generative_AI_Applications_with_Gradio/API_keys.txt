@@ -1,0 +1,22 @@
+## How to get your own Hugging Face API key (token)
+
+Hugging Face "API keys" are called "User Access tokens".  
+
+You can create your own User Access Tokens here: [Access Tokens](https://huggingface.co/settings/tokens).
+
+#### Save your user access tokens to environment variables
+To save your access token securely on your own machine:
+- Create a `.env` file in the root directory of your project.
+- Edit the file to contain the following:  
+`HF_API_KEY="abc123"` replace that string with your user access token.
+- Save the .env file.
+- Install Python-dotenv `pip install python-dotenv`
+
+Just keep these values display, however then these should be deleted (since they have been already set up within the my Github account). 
+HF_API_KEY="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"
+HF_API_SUMMARY_BASE="https://api-inference.huggingface.co/models/facebook/bart-large-cnn"
+PORT1=7860
+PORT2=7870
+HF_API_NER_BASE="https://api-inference.huggingface.co/models/dslim/bert-base-NER"
+PORT3=7880
+PORT4=7890
