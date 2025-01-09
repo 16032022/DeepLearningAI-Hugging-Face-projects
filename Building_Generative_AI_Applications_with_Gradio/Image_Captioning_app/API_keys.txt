@@ -12,7 +12,3 @@ To save your access token securely on your own machine:
 - Save the .env file.
 - Install Python-dotenv `pip install python-dotenv`
 
-Just keep these values display, however then these should be deleted (since they have been already set up within the my Github account). 
-HF_API_KEY="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"
-HF_API_ITT_BASE="https://api-inference.huggingface.co/models/Salesforce/blip-image-captioning-large"
-PORT1=7860

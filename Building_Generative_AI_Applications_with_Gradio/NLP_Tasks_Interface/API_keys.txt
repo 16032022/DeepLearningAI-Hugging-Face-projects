@@ -12,11 +12,3 @@ To save your access token securely on your own machine:
 - Save the .env file.
 - Install Python-dotenv `pip install python-dotenv`
 
-Just keep these values display, however then these should be deleted (since they have been already set up within the my Github account). 
-HF_API_KEY="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"
-HF_API_SUMMARY_BASE="https://api-inference.huggingface.co/models/facebook/bart-large-cnn"
-PORT1=7860
-PORT2=7870
-HF_API_NER_BASE="https://api-inference.huggingface.co/models/dslim/bert-base-NER"
-PORT3=7880
-PORT4=7890
