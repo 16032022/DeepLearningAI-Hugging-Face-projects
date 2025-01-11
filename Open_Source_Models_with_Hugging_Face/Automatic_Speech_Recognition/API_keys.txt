@@ -12,6 +12,3 @@ To save your access token securely on your own machine:
 - Save the .env file.
 - Install Python-dotenv `pip install python-dotenv`
 
-Just keep these values display, however then these should be deleted (since they have been already set up within the my Github account). 
-HF_API_KEY="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"
-PORT1=7860
