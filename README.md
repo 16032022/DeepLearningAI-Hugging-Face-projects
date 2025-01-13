@@ -1,5 +1,5 @@
 # Hugging-Face
-(Revised) Examples of codes enclosed in two short HuggingFace courses that are available in the DeepLearningAI platform.
+Welcome to the HuggingFace repository! This repository contains reviewed and personalized code examples inspired by two short courses offered on the DeepLearning.AI platform:
 
 - Open Source Models with Hugging Face 🌟🌟
 - Building Generative AI Applications with Gradio ✨✨
