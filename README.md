@@ -1,7 +1,7 @@
 # Hugging-Face
 Welcome to the HuggingFace repository! This repository contains reviewed and personalized code examples inspired by two short courses offered on the DeepLearning.AI platform:
 
-🌟 Open Source Models with Hugging Face
+🌟 ## Open Source Models with Hugging Face
    
    Learn how to leverage open-source models for various NLP tasks using the Hugging Face ecosystem. Explore techniques to fine-tune, deploy, and optimize models for real-world applications.
 
