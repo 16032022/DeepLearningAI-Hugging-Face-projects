@@ -1,6 +1,7 @@
 # Building Generative AI Applications with Gradio
 
-Create and demo machine learning applications quickly. Share your app and beta testers on Hugging Face Space. 
+Create and demo machine learning applications quickly. Share your app on [Hugging Face Space](https://huggingface.co/). 
+Discover how to create interactive, user-friendly generative AI applications using Gradio. Build and deploy stunning demos powered by cutting-edge AI models with minimal code.
 
 - Natural Languages Processing (NLP) Tasks Interface✨
 - Image Captioning app🎨
