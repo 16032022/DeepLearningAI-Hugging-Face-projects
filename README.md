@@ -1,4 +1,4 @@
-# ![image](https://github.com/user-attachments/assets/35f315f5-15fb-4236-9f1d-9ee2554b7d56) DeepLearningAI-Hugging-Face
+# ![image](https://github.com/user-attachments/assets/35f315f5-15fb-4236-9f1d-9ee2554b7d56) Hugging-Face
 Welcome to the HuggingFace repository! This repository contains reviewed and personalized code examples inspired by two short courses offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/):
 
 ## 🌟 Open Source Models with Hugging Face    
