@@ -11,13 +11,13 @@ Learn how to leverage open-source models for various NLP tasks using the Hugging
   
 - 🎧 [Zero-shot Audio Classification](https://github.com/16032022/DeepLearningAI-Hugging-Face-projects/blob/main/Open_Source_Models_with_Hugging_Face/Zero%20Shot%20Audio%20Classification.ipynb)  
   
-- 🎤 [Automatic Speech Recognition]
+- 🎤 [Automatic Speech Recognition](https://github.com/16032022/DeepLearningAI-Hugging-Face-projects/tree/main/Open_Source_Models_with_Hugging_Face/Automatic_Speech_Recognition)
   
 - 🗣️ [Text to Speech]
   
-- 📷 [Object Detection]
+- 📷 [Object Detection](
   
-- 🖼️ [Image Segmentation](
+- 🖼️ [Image Segmentation](https://github.com/16032022/DeepLearningAI-Hugging-Face-projects/tree/main/Open_Source_Models_with_Hugging_Face/Image_Segmentation)  
   
 - 🔍 [Image Retrieval](https://github.com/16032022/DeepLearningAI-Hugging-Face-projects/blob/main/Open_Source_Models_with_Hugging_Face/Image_Retrieval.ipynb)
   
@@ -27,7 +27,8 @@ Learn how to leverage open-source models for various NLP tasks using the Hugging
   
 - 📸 [Zero-Shot Image Classification](https://github.com/16032022/DeepLearningAI-Hugging-Face-projects/blob/main/Open_Source_Models_with_Hugging_Face/Zero%20shot%20image%20classification.ipynb)
   
-- 🚀 [Deployment]
+- 🚀 [Deployment](https://github.com/16032022/DeepLearningAI-Hugging-Face-projects/tree/main/Open_Source_Models_with_Hugging_Face/Deployment)
+
 
 
 
