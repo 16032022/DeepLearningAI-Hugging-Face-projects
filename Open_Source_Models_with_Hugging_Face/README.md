@@ -17,16 +17,17 @@ Learn how to leverage open-source models for various NLP tasks using the Hugging
   
 - 📷 [Object Detection]
   
-- 🖼️ [Image Segmentation]
+- 🖼️ [Image Segmentation](
   
-- 🔍 [Image Retrieval]
+- 🔍 [Image Retrieval](https://github.com/16032022/DeepLearningAI-Hugging-Face-projects/blob/main/Open_Source_Models_with_Hugging_Face/Image_Retrieval.ipynb)
   
-- 🖊️ [Image Captioning]
+- 🖊️ [Image Captioning](https://github.com/16032022/DeepLearningAI-Hugging-Face-projects/blob/main/Open_Source_Models_with_Hugging_Face/Image%20captioning.ipynb)
   
-- ❓ [Multimodal Visual Question]
+- ❓ [Multimodal Visual Question]((https://github.com/16032022/DeepLearningAI-Hugging-Face-projects/blob/main/Open_Source_Models_with_Hugging_Face/Multimodal%20visual%20question%20answering.ipynb)  
   
-- 📸 [Zero-Shot Image Classification]
+- 📸 [Zero-Shot Image Classification](https://github.com/16032022/DeepLearningAI-Hugging-Face-projects/blob/main/Open_Source_Models_with_Hugging_Face/Zero%20shot%20image%20classification.ipynb)
   
 - 🚀 [Deployment]
+
 
 
