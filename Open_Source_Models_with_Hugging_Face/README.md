@@ -5,7 +5,7 @@ Learn how to leverage open-source models for various NLP tasks using the Hugging
 
 -  🌐 [Natural Languages Processing (NLP)](https://github.com/16032022/DeepLearningAI-Hugging-Face-projects/blob/main/Open_Source_Models_with_Hugging_Face/Natural%20Language%20Processing.ipynb)  
   
-- [Translation and Summarization](https://github.com/16032022/DeepLearningAI-Hugging-Face-projects/blob/main/Open_Source_Models_with_Hugging_Face/Translation_and_Summarization.ipynb)  
+- 🎯 [Translation and Summarization](https://github.com/16032022/DeepLearningAI-Hugging-Face-projects/blob/main/Open_Source_Models_with_Hugging_Face/Translation_and_Summarization.ipynb)  
   
 - 📝 [Sentence Embeddings](https://github.com/16032022/DeepLearningAI-Hugging-Face-projects/blob/main/Open_Source_Models_with_Hugging_Face/Sentence%20Embeddings.ipynb)  
   
@@ -28,6 +28,7 @@ Learn how to leverage open-source models for various NLP tasks using the Hugging
 - 📸 [Zero-Shot Image Classification](https://github.com/16032022/DeepLearningAI-Hugging-Face-projects/blob/main/Open_Source_Models_with_Hugging_Face/Zero%20shot%20image%20classification.ipynb)
   
 - 🚀 [Deployment](https://github.com/16032022/DeepLearningAI-Hugging-Face-projects/tree/main/Open_Source_Models_with_Hugging_Face/Deployment)
+
 
 
 
