@@ -16,7 +16,7 @@ Want to see Gradio in action? Explore a variety of interactive Gradio applicatio
   - Additional Resources: Links to documentation, model hubs, and supplementary learning materials.
 
 ## Contributions  
-Contributions are welcome! Feel free to submit pull requests to improve or extend the codebase.
+Contributions are welcome! Feel free to submit [pull requests](https://github.com/16032022/DeepLearningAI-Hugging-Face-projects/pulls) to improve or extend the codebase.
 
 ## License  
 This repository is licensed under the [MIT License](https://opensource.org/license/MIT).
