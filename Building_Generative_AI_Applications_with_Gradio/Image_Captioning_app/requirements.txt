@@ -7,8 +7,10 @@ You can create your own User Access Tokens here: [Access Tokens](https://hugging
 #### Save your user access tokens to environment variables
 To save your access token securely on your own machine:
 - Create a `.env` file in the root directory of your project.
-- Edit the file to contain the following:  
-`HF_API_KEY="abc123"` replace that string with your user access token.
+- Edit the file to contain the following: 
+
+`HF_API_KEY="your_hf_api_key_here"` replace that string with your user access token.
+
 - Save the .env file.
 - Install Python-dotenv `pip install python-dotenv`
 
