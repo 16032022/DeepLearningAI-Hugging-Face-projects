@@ -13,7 +13,7 @@ Discover how to create interactive, user-friendly generative AI applications usi
   - Ready-to-Run Notebooks: Test and modify pre-configured Jupyter notebooks.
   - Additional Resources: Links to documentation, model hubs, and supplementary learning materials.
 
-##  Explore Live My Gradio Apps on Hugging Face
+## 🌐 Explore Live My Gradio Apps on Hugging Face
 Want to see Gradio in action? Explore a variety of interactive Gradio applications hosted on the [Hugging Face Spaces](https://huggingface.co/). These apps provide an overview of the projects I’ve created, based on the contents of the two short courses. Explore [my Gradio apps](https://huggingface.co/collections/dlaima/my-gradio-apps-6784ff8d41db1b5ffac83991) and get inspiration for your own projects!
 
 
